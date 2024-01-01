@@ -28,14 +28,14 @@ The WeatherInfo web application is a simple yet powerful tool that allows users 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/weatherinfo.git
+   git clone https://git@github.com:codespirit7/weather-couscous.git
    ```
 
 2. **Deploy the Application:**
    Deploy the application on a servlet container (e.g., Apache Tomcat).
 
 3. **Access the Application:**
-   Open a web browser and navigate to `http://localhost:8080/weatherinfo`.
+   Open a web browser and navigate to `http://localhost:8080/WeatherCity`.
 
 4. **Enter City Name:**
    Enter the name of the city for which you want to check the weather in the input bar and click the search button.
