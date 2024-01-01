@@ -20,7 +20,7 @@ The WeatherInfo web application is a simple yet powerful tool that allows users 
 
 - **WeatherServlet.java:** The servlet responsible for handling user requests. It communicates with the OpenWeather API, processes the response, and passes the data to the JSP page.
 
-- **WeatherJsp.jsp:** The JSP page that receives the weather information from the servlet and dynamically renders it on the client side.
+- **index.jsp:** The JSP page that receives the weather information from the servlet and dynamically renders it on the client side.
 
 - **WEB-INF/lib/:** Contains the GSON library JAR file.
 
