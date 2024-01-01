@@ -1,0 +1,57 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Generated files
+target/
+
+# IDE-specific files and directories
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.settings/
+
+# Eclipse-specific files
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# NetBeans-specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.nb-gradle-build/
+.idea/
+
+# IntelliJ-specific files
+out/
+
+# Tomcat-specific files
+work/
+*.war
+*.ear
+*.jar
+hs_err_pid*
+
+# Maven-specific files
+log/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
