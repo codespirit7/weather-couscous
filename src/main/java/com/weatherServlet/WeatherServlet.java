@@ -39,7 +39,7 @@ public class WeatherServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		String city = request.getParameter("city");
 		
-		String apiKey = "221a3a80398ec5399a5a3a4f229993d2";
+		String apiKey = "";
 		
 		String apiURL = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+apiKey;
 		
